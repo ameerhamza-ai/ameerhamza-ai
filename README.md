@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Ameer Hamza! 
 
-<!--
-**ameerhamza-ai/ameerhamza-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BS Artificial Intelligence @ KUST, Pakistan
+- Currently on #150DaysOfAI Challenge
+- Learning: Python -> OOP -> DSA -> ML
+- Goal: AI Architect at Google/Meta/OpenAI
+- 2nd Semester | GPA: 3.75
+- Passionate about building intelligent systems
 
-Here are some ideas to get you started:
+## Tech Stack
+Python | VS Code | GitHub | (NumPy, Pandas, TensorFlow - coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## #150DaysOfAI Progress
+| Phase   | Topics          | Status       |
+|---------|-----------------|--------------|
+| Month 1 | Python Mastery  | In Progress  |
+| Month 2 | OOP + Advanced  | Coming Soon  |
+| Month 3 | DSA             | Coming Soon  |
+| Month 4 | Data Science    | Coming Soon  |
+| Month 5 | Machine Learning| Coming Soon  |
+
+## Projects
+| Project              | Tech   | Status      |
+|----------------------|--------|-------------|
+| Calculator App       | Python | Done        |
+| Pattern Generator    | Python | In Progress |
+| Student Grade Mgr    | Python | Coming      |
+
+## Connect
+LinkedIn: www.linkedin.com/in/ameerhamzaai
+
+---
+Learning today. Building tomorrow.
