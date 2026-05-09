@@ -1,34 +1,42 @@
-# Hi there, I'm Ameer Hamza! 
+# Hi there, I'm Ameer Hamza!
 
 ## About Me
 - BS Artificial Intelligence @ KUST, Pakistan
-- Currently on #150DaysOfAI Challenge
-- Learning: Python -> OOP -> DSA -> ML
+- Currently on **#150DaysOfAI** Challenge
+- Learning: Python → OOP → DSA → ML
 - Goal: AI Architect at Google/Meta/OpenAI
-- 2nd Semester | GPA: 3.75
 - Passionate about building intelligent systems
+- Pakistan
 
 ## Tech Stack
-Python | VS Code | GitHub | (NumPy, Pandas, TensorFlow - coming soon)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## #150DaysOfAI Progress
-| Phase   | Topics          | Status       |
-|---------|-----------------|--------------|
-| Month 1 | Python Mastery  | In Progress  |
-| Month 2 | OOP + Advanced  | Coming Soon  |
-| Month 3 | DSA             | Coming Soon  |
-| Month 4 | Data Science    | Coming Soon  |
-| Month 5 | Machine Learning| Coming Soon  |
+| Phase | Topics | Status |
+|-------|--------|--------|
+| Month 1 | Python Mastery | In Progress |
+| Month 2 | OOP + Advanced | Coming Soon |
+| Month 3 | DSA | Coming Soon |
+| Month 4 | Data Science | Coming Soon |
+| Month 5 | Machine Learning | Coming Soon |
 
 ## Projects
-| Project              | Tech   | Status      |
-|----------------------|--------|-------------|
-| Calculator App       | Python | Done        |
-| Pattern Generator    | Python | In Progress |
-| Student Grade Mgr    | Python | Coming      |
+| Project | Tech | Status |
+|---------|------|--------|
+| Calculator App | Python | ✅ Done |
+| Pattern Generator | Python | ✅ Done |
+| Quiz Game | Python | Coming |
+| Student Grade Manager | Python | Coming |
 
-## Connect
-LinkedIn: www.linkedin.com/in/ameerhamzaai
+## GitHub Stats
+![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza-ai&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza-ai&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
 ---
-Learning today. Building tomorrow.
+**"Learning today. Building tomorrow."**
