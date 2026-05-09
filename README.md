@@ -40,5 +40,11 @@
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
+## 📊 My GitHub Stats
+![Ameer's Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza-ai&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🐍 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza-ai&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 **"Learning today. Building tomorrow."**
