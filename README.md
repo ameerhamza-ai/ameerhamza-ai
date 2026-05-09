@@ -37,11 +37,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true)
 
-<p align="left">
-  <!-- Alternative Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamza-ai&theme=tokyonight" alt="Profile Details" />
-</p>
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
