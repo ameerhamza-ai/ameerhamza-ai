@@ -37,7 +37,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true)
 
-<p align="center">
+<p align="right">
   <!-- Alternative Stats Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamza-ai&theme=tokyonight" alt="Profile Details" />
 </p>
