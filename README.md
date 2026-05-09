@@ -37,26 +37,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true)
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
-
-## 📊 My Coding Activity
-<p align center>
-  <!-- GitHub Streak Stats: Ye aapki daily consistency dikhayega -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true" alt="Ameer's Streak" />
-</p>
-
-## 🛠️ GitHub Profile Summary
 <p align="center">
   <!-- Alternative Stats Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamza-ai&theme=tokyonight" alt="Profile Details" />
 </p>
 
-## 📂 Repository Insights
-| Stats | Link |
-| :--- | :--- |
-| **Total Contributions** | ![Contributions](https://img.shields.io/badge/dynamic/json?style=flat&label=Total%20Commits&query=total_commits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dameerhamza-ai) |
-| **Current Challenge** | #150DaysOfAI |
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
 ---
 **"Learning today. Building tomorrow."**
