@@ -40,11 +40,23 @@
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
 
-## 📊 My GitHub Stats
-![Ameer's Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza-ai&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 My Coding Activity
+<p align center>
+  <!-- GitHub Streak Stats: Ye aapki daily consistency dikhayega -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true" alt="Ameer's Streak" />
+</p>
 
-## 🐍 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza-ai&layout=compact&theme=tokyonight&hide_border=true)
+## 🛠️ GitHub Profile Summary
+<p align="center">
+  <!-- Alternative Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamza-ai&theme=tokyonight" alt="Profile Details" />
+</p>
+
+## 📂 Repository Insights
+| Stats | Link |
+| :--- | :--- |
+| **Total Contributions** | ![Contributions](https://img.shields.io/badge/dynamic/json?style=flat&label=Total%20Commits&query=total_commits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dameerhamza-ai) |
+| **Current Challenge** | #150DaysOfAI |
 
 ---
 **"Learning today. Building tomorrow."**
