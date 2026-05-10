@@ -30,12 +30,30 @@
 | Quiz Game | Python | Coming |
 | Student Grade Manager | Python | Coming |
 
-## GitHub Stats
-![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## Coding Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza-ai&layout=compact&theme=tokyonight&hide_border=true)
+```text
+Current Streak  : Building daily — #150DaysOfAI
+Started         : April 2026
+Days Completed  : 13 / 150
+Language        : Python
+Repos           : 3 Public
+Focus           : Python → OOP → DSA → ML
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza-ai&theme=tokyonight&hide_border=true)
+## Milestones
+- Week 1 Complete — Python Basics
+- Week 2 Complete — Loops & Patterns  
+- 2 Projects Shipped
+- 14,000+ LinkedIn Impressions in 12 days
+- Week 3 — Lists & Functions (In Progress)
+
+## LinkedIn Growth
+> Building in public since April 2026
+> 
+> **14,000+ impressions · 35 followers · 33 connections**
+> 
+> [Follow the journey →](https://linkedin.com/in/ameerhamzaai)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
