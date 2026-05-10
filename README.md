@@ -45,15 +45,7 @@ Focus           : Python → OOP → DSA → ML
 - Week 1 Complete — Python Basics
 - Week 2 Complete — Loops & Patterns  
 - 2 Projects Shipped
-- 14,000+ LinkedIn Impressions in 12 days
 - Week 3 — Lists & Functions (In Progress)
-
-## LinkedIn Growth
-> Building in public since April 2026
-> 
-> **14,000+ impressions · 35 followers · 33 connections**
-> 
-> [Follow the journey →](https://linkedin.com/in/ameerhamzaai)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
