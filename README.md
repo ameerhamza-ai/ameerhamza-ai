@@ -35,7 +35,7 @@
 ```text
 Current Streak  : Building daily — #150DaysOfAI
 Started         : April 2026
-Days Completed  : 15 / 150
+Days Completed  : 17 / 150
 Language        : Python
 Repos           : 3 Public
 Focus           : Python → OOP → DSA → ML
@@ -45,7 +45,7 @@ Focus           : Python → OOP → DSA → ML
 - Week 1 Complete — Python Basics
 - Week 2 Complete — Loops & Patterns  
 - 2 Projects Shipped
-- Week 3 — Lists & Functions (In Progress)
+- Week 3 — Functions, Scope & Recursion (In Progress)
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
