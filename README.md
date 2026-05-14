@@ -44,8 +44,8 @@ Focus           : Python → OOP → DSA → ML
 ## Milestones
 - Week 1 Complete — Python Basics
 - Week 2 Complete — Loops & Patterns  
-- 2 Projects Shipped
 - Week 3 — Functions, Scope & Recursion (In Progress)
+- 2 Projects Shipped 
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ameerhamzaai)
