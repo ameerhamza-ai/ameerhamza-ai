@@ -1,4 +1,4 @@
-# Hi there, I'm Ameer Hamza!
+í# Hi there, I'm Ameer Hamza!
 
 ## About Me
 - BS Artificial Intelligence @ KUST, Pakistan
@@ -27,7 +27,7 @@
 |---------|------|--------|
 | Calculator App | Python | ✅ Done |
 | Pattern Generator | Python | ✅ Done |
-| Quiz Game | Python | Coming |
+| Quiz Game | Python | ✅ Done |
 | Student Grade Manager | Python | Coming |
 
 ## Coding Activity
