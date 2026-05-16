@@ -44,7 +44,7 @@ Focus           : Python → OOP → DSA → ML
 ## Milestones
 - Week 1 Complete — Python Basics
 - Week 2 Complete — Loops & Patterns  
-- Week 3 — Functions, Scope & Recursion (In Progress)
+- Week 3 — Functions, Scope & Recursion
 - 3 Projects Shipped 
 
 ## Connect
