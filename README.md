@@ -1,4 +1,4 @@
-í# Hi there, I'm Ameer Hamza!
+# Hi there, I'm Ameer Hamza!
 
 ## About Me
 - BS Artificial Intelligence @ KUST, Pakistan
