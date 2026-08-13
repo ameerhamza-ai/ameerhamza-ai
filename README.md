@@ -4,7 +4,6 @@
 - BS Artificial Intelligence @ KUST, Pakistan
 - Currently on **#150DaysOfAI** Challenge
 - Learning: Python → OOP → DSA → ML
-- Goal: AI Architect at Google/Meta/OpenAI
 - Passionate about building intelligent systems
 - Pakistan
 
