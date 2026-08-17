@@ -15,7 +15,7 @@
 ## 150DaysOfAI Progress
 | Phase | Topics | Status |
 |-------|--------|--------|
-| Month 1 | Python Mastery | In Progress |
+| Month 1 | Python Mastery | ✅ Done |
 | Month 2 | OOP + Advanced | Coming Soon |
 | Month 3 | DSA | Coming Soon |
 | Month 4 | Data Science | Coming Soon |
