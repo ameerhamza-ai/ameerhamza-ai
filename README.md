@@ -16,7 +16,7 @@
 | Phase | Topics | Status |
 |-------|--------|--------|
 | Month 1 | Python Mastery | ✅ Done |
-| Month 2 | OOP + Advanced | Coming Soon |
+| Month 2 | OOP + Advanced | In Progress |
 | Month 3 | DSA | Coming Soon |
 | Month 4 | Data Science | Coming Soon |
 | Month 5 | Machine Learning | Coming Soon |
@@ -34,7 +34,7 @@
 ```text
 Current Streak  : Building daily — #150DaysOfAI
 Started         : April 2026
-Days Completed  : 27 / 150
+Days Completed  : 29 / 150
 Language        : Python
 Repos           : 3 Public
 Focus           : Python → OOP → DSA → ML
